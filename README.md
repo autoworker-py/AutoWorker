@@ -1,5 +1,5 @@
 # AutoWorker
-REQUIRES LICENCE KEY email autoworker.python@gmail.com to get free trial. (Limited Time)
+REQUIRES LICENCE KEY email autoworker.python@gmail.com to get free trial. (Limited Time Offer)
 
 (Latest) Version 1.2 - https://github.com/autoworker-py/AutoWorker/releases/edit/v1.2
    
